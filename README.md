@@ -1,5 +1,7 @@
 # VideoGigaGAN Project Website
 
+[Preview](https://videogigagan.com)
+
 This is the open-source website for the VideoGigaGAN project, aimed at showcasing the research results of the VideoGigaGAN model in video super-resolution. VideoGigaGAN is a new generative video super-resolution model that can produce high-resolution videos with rich details and temporal consistency.
 
 ## Features

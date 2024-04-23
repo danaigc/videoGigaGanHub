@@ -49,9 +49,9 @@ export default function ComparisonSlider({ original, modified, alt }: Comparison
         if (userInteracted && originalVideoRef.current && modifiedVideoRef.current) {
             if (position < 50) {
                 originalVideoRef.current.play();
-                modifiedVideoRef.current.pause();
+                modifiedVideoRef.current.play();
             } else {
-                originalVideoRef.current.pause();
+                originalVideoRef.current.play();
                 modifiedVideoRef.current.play();
             }
         }
